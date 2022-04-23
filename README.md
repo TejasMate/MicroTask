@@ -42,9 +42,21 @@ Website: (https://tviky.com/)
 
 Implement two knowledgebase plugins (free versions) on your WordPress site. If you are recommending a plugin that costs money, please reach out to a mentor to discuss.
 
-Helpie KB 
+BetterDocs
+Implementation: (https://tviky.com/index.php/kb/)
+![Screenshot (15)](https://user-images.githubusercontent.com/14368643/164885696-72ebf6c6-88c3-4d2b-a322-4cc07a4503a2.png)
+
+Article Page: (https://tviky.com/index.php/docs/bugs-troubleshooting/article-2/)
+![brave_WTbGMz3Sz9](https://user-images.githubusercontent.com/14368643/164885879-877eec2c-c03f-4b0d-b6dd-6975cf23c7e1.png)
 
 
+Helpie KB
+Implementation: (https://tviky.com/index.php/knowledge-base/)
+![brave_zaSJohoJ5w](https://user-images.githubusercontent.com/14368643/164888398-dd660070-dc12-48b5-a385-1446a4b8e947.gif)
+
+
+Article Page: (https://tviky.com/index.php/helpdesk/article-2-2/)
+![Mp4](https://user-images.githubusercontent.com/14368643/164887963-3ba93785-016f-4ee4-b60f-2188bfc0f964.gif)
 
 
 ## Microtask 4:
