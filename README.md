@@ -62,3 +62,5 @@ Article Page: (https://tviky.com/index.php/helpdesk/article-2-2/)
 ## Microtask 4:
 
 Create a report to present the results of your micro-tasks and your proposal for implementing a knowledgebase on the CHAOSS website. Document the plugins and describe your design choices. Include links to your example implementations on your WordPress site.
+
+Chaoss Community Website uses Salient Theme, I used same theme with same template. There are lots of options for knowledge base plugins, choosing corrrect one, open source, free, flexible for users and team are my priorities.  I'm trying to use all plugins, i will update if I found best plugin
