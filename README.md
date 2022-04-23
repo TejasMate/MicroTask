@@ -42,6 +42,9 @@ Website: (https://tviky.com/)
 
 Implement two knowledgebase plugins (free versions) on your WordPress site. If you are recommending a plugin that costs money, please reach out to a mentor to discuss.
 
+Helpie KB
+
+
 
 
 ## Microtask 4:
