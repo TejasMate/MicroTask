@@ -9,12 +9,12 @@ Best Plugins rankings according to my research  (I will update more plugins & ch
 **1. Heroic KB**
 Only Premium: (https://herothemes.com/plugins/heroic-wordpress-knowledge-base/)
 
-**2. Helpie WP**
-Only Premium: (https://helpiewp.com/)
-
-**3.  BetterDocs** 
+**2.  BetterDocs** 
 Freemium: (https://wordpress.org/plugins/betterdocs/)
 Premium: (https://betterdocs.co/docs/wordpress/)
+
+**3. Helpie WP**
+Only Premium: (https://helpiewp.com/)
 
 **4. Echo Knowledge Base**
 Freemium: (https://wordpress.org/plugins/echo-knowledge-base/)
@@ -42,7 +42,7 @@ Website: (https://tviky.com/)
 
 Implement two knowledgebase plugins (free versions) on your WordPress site. If you are recommending a plugin that costs money, please reach out to a mentor to discuss.
 
-Helpie KB
+Helpie KB 
 
 
 
